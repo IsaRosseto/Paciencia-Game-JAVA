@@ -1,10 +1,10 @@
-# Patience
+# Paciência 
 
-Patience game using JavaFX. 
+Se trata do famoso jogo de cartas "Paciencia", desenvolvido na linguagem JAVA.
 
 ## Running
 
-You can play running the following command using maven:
+Ficou com vontade de jogar? Baixe o repositório e utilize o comando abaixo usando o MAVEN: 
 
 ```
 mvn clean javafx:run
