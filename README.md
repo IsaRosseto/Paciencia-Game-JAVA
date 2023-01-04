@@ -1,4 +1,4 @@
-# Paciência 
+# Paciência 🃏♣️
 
 Se trata do famoso jogo de cartas "Paciencia", desenvolvido na linguagem JAVA.
 
