@@ -3,7 +3,9 @@ Se trata do famoso jogo de cartas "Paciencia", presentes desenvolvido na linguag
 
 
 
-<br><br>
+<br>
+
+#
 
 <h3> Rode em sua máquina : </h3>
 Ficou com vontade de jogar? Baixe o repositório e utilize o comando abaixo usando o MAVEN: 
