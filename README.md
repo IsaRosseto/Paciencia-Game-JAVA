@@ -1,5 +1,5 @@
 <h1> Paciência - Solitaire 🃏 </h1>
-Se trata do famoso jogo de cartas "Paciencia", presentes desenvolvido na linguagem JAVA.
+Se trata do famoso jogo de cartas "Paciencia", desenvolvido na linguagem JAVA.
 
 
 
