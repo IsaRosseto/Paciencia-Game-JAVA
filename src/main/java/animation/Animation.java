@@ -8,3 +8,5 @@ public interface Animation {
 
     public boolean ended();
 }
+
+//G
