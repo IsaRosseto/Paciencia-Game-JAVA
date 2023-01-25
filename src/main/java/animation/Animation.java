@@ -9,4 +9,4 @@ public interface Animation {
     public boolean ended();
 }
 
-//GitHub@IsaRosse
+//GitHub@IsaRosset
