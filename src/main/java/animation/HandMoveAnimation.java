@@ -38,3 +38,5 @@ public class HandMoveAnimation implements Animation {
         return this.animEnded;
     }
 }
+
+/
