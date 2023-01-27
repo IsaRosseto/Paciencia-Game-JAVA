@@ -39,4 +39,4 @@ public class HandMoveAnimation implements Animation {
     }
 }
 
-/*Git
+/*GitHub
