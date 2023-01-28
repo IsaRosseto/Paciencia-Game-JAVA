@@ -41,3 +41,5 @@ public class FlipAnimation implements Animation {
         return this.animEnded;
     }
 }
+
+/*G
