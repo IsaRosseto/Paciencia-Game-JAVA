@@ -42,4 +42,4 @@ public class FlipAnimation implements Animation {
     }
 }
 
-/*GitHub
+/*GitHub@
