@@ -83,4 +83,4 @@ public class App extends Application {
     }
 }
 
-/*Git
+/*GitHub
