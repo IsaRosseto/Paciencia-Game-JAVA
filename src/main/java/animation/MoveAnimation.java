@@ -39,4 +39,4 @@ public class MoveAnimation implements Animation {
     }
 }
 
-/*GitHub@IsaRosseto
+/*GitHub@IsaRosseto*/
